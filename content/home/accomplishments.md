@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Associação Portuguesa de Linguística"
+  organization = "Associação Portuguesa de Linguística (Portuguese Society of Linguistics)"
   #organization_url = "https://www.coursera.org"
-  title = "Prémio de investigação APL/Maria Helena Mira Mateus"
+  title = "Prémio de investigação APL/Maria Helena Mira Mateus (APL/Maria Helena Mira Mateus Research Award)"
   url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2018"
