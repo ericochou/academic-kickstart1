@@ -34,7 +34,7 @@ education:
     institution: University of Lisbon
     year: 2017
   - course: BA in Journalism (Portuguese)
-    institution: Communication University of China
+    institution: Communication University of China, Nanjing
     year: 2015
 
 # Social/Academic Networking
@@ -44,16 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "zhouchao@edu.ulisboa.pt".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=Lnpq0tkAAAAJ&hl=pt-PT&authuser=1&citsig=AMD79orLL7PrreQFzUYDwjLhaLMEKznXBQ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
